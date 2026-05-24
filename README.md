@@ -60,7 +60,7 @@
 - How LLMs can serve as adversarial peer reviewers for historical research
 - The structural biases that colonial-era text archives embed into language models
 - Whether decentralized systems can enable new paradigms for cultural heritage preservation
-- Building in public: documenting every win, failure, and breakthrough in real time
+- Building in public: documenting every win, failure, and breakthrough in my [Research Log](https://github.com/AnwitaDPillai/research-log)
 
 ## How I Got Here
 

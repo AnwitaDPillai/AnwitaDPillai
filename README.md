@@ -14,8 +14,8 @@
 
 - **Monograph:** A 100,000-word history of material resistance in South Asia (1900–1950)
 - **Substack:** Translating rigorous historical scholarship into accessible long-form essays
-- **Code:** Learning frontend (HTML/CSS/JS) through Kode with Klossy, and Python (pandas, matplotlib) for bridging humanities with tech
-- **Research:** Molecular imaging fellowship with Stanford faculty
+- **Code:** Building web projects with HTML/CSS/JS through Kode with Klossy; learning Python for historical text analysis
+- **Research:** Molecular imaging fellowship with Stanford faculty; content analysis research with C.R.A.F.T. (UCLA-affiliated); IYNA Scholar, dual-track asynchronous study in Neuroscience I & II; Sci Mi scholar in Neuroscience
 
 ## Selected Public Scholarship & Accolades
 
@@ -34,7 +34,7 @@
 <summary><b>Creative Writing & Poetry</b></summary>
 <br>
 
-* **Foyle Young Poets Award** — Commended (Top 85 globally)
+* **Foyle Young Poets Award** — Commended (Top 85 globally); "Marginalia" selected for the 2025 online anthology
 * **EJCA Haiku Competition** — First Place (Under-16)
 * **The Suburban Review** — Issue #40 "Untrue" (Fiction)
 </details>
@@ -49,11 +49,23 @@
 * **Vidyarthi Vigyan Manthan** — State Level Camp, 2024
 </details>
 
+<details>
+<summary><b>Research & Academic Programs</b></summary>
+<br>
+
+* **International Youth Neuroscience Association (IYNA)** — Scholar, Neuroscience I & II (2026)
+* **C.R.A.F.T. Research Scholar** — Content Analysis Track (UCLA-affiliated)
+* **Kode with Klossy** — Web Development Graduate (2026)
+* **Stanford Mini Fellowship** — Molecular Imaging & Radionuclide Therapy Scholar
+* **Sci Mi** — Asynchronous Scholar, Neuroscience
+</details>
+
 ## Currently Learning
 
 - **Python** for historical text analysis and semantic mapping
-- **Frontend Development** (HTML/CSS/JS) via *Kode with Klossy*
+- **Frontend Development** (HTML/CSS/JS) — building capstone projects with collaborative teams
 - **Computational Methods** for turning qualitative archival research into quantitative insights
+- **Neuroscience** — exploring the biology of memory, attention, and cognition through IYNA and Sci Mi
 
 ## What I'm Exploring
 

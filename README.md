@@ -6,7 +6,7 @@
 
 ***
 
-[**Website**](https://anwitadpillai.carrd.co/) &nbsp;·&nbsp; [**Hand-coded Portfolio**](https://AnwitaDPillai.github.io/portfolio/) &nbsp;·&nbsp; [**Substack**](https://anwitadpillai.substack.com/) &nbsp;·&nbsp; [**Email**](mailto:anwitadpillai007@gmail.com)
+[**Website**](https://anwitadpillai.carrd.co/) &nbsp;·&nbsp; [**Hand-coded Portfolio**](https://AnwitaDPillai.github.io/portfolio/) &nbsp;·&nbsp; [**Substack**](https://anwitadpillai.substack.com/) &nbsp;·&nbsp; [**Email**](mailto:anwitadpillai007@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/anwita-d-pillai/)
 
 📍 Kochi, Kerala, India
 

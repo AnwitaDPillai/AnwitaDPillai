@@ -113,8 +113,7 @@ Founded and maintain a Substack publication of 20+ organic subscribers producing
 * **The Silence Premium** — *Working paper (2026)*  
   Quantitative study documenting pre-announcement drift in equity, bond, and currency markets.
 
-* **Staircase to Healing** — *Working paper*  
-  Submitted to BMJ Medical Humanities (under review).
+* **Staircase to Healing** — *Working paper*
 
 ---
 

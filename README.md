@@ -113,23 +113,17 @@ Founded and maintain a Substack publication of 20+ organic subscribers producing
 * **The Silence Premium** — *Working paper (2026)*  
   Quantitative study documenting pre-announcement drift in equity, bond, and currency markets.
 
-* **Staircase to Healing** — *Working paper*
+* **Staircase to Healing** — *Working paper (2025)*
 
 ---
 
 ## GRANT PROPOSALS
-
-* **OpenAI Economic Research Exchange**  
-  Proposed *"The Language of Opportunity: Measuring and Mitigating AI-Mediated Linguistic Gatekeeping in Hiring."* Requested $25,000 + RA stipend.
 
 * **Center for Humane Technology (CHT) Emerging Voices Fellowship**  
   Proposed *"The Collapse of Genre: How the Conversational Interface Is Rewiring Human Knowledge."* Seeking $30,000 stipend + public platform.
 
 * **Moonshot Awards**  
   Proposed *Jargonaut*, an AI platform translating institutional language into plain-language summaries.
-
-* **New York Climate Exchange Climate Tech Fellowship**  
-  Proposed *The Debt of the Earth (DOTE)*, an AI-powered platform quantifying colonial-era climate debt.
 
 ---
 
@@ -139,6 +133,7 @@ Founded and maintain a Substack publication of 20+ organic subscribers producing
 | :--- | :--- | :---: |
 | **Phenotype** | An evolutionary agent-based game-theory simulator built with HTML5 Canvas and JavaScript. | [Live &rarr;](https://anwitadpillai.github.io/phenotype-abm/) |
 | **Nethernet** | A 3D internet archaeology engine using Three.js and the Wayback Machine API. | [Live &rarr;](https://nethernet.vercel.app/) |
+| **Research Log** | A public record of what I'm learning, building, and figuring out in real time. | [Live &rarr;](https://research-log-delta.vercel.app/) |
 | **Offtrack** | An AI-powered diagnostic tool that turns Spotify listening history into a brutally honest self-portrait. | [Live &rarr;](https://anwitadpillai.github.io/offtrack/) |
 
 ---
@@ -155,6 +150,6 @@ The constraints were never obstacles. They were the forge.
 
 ### GET IN TOUCH
 
-[Email](mailto:anwitadpillai007@gmail.com) &nbsp;&bull;&nbsp; [Substack](https://anwitadpillai.substack.com/) &nbsp;&bull;&nbsp; [LinkedIn](https://www.linkedin.com/in/anwita-d-pillai/) &nbsp;&bull;&nbsp; [GitHub](https://github.com/AnwitaDPillai)
+[Email](mailto:anwitadpillai007@gmail.com) &nbsp;&bull;&nbsp; [Substack](https://anwitadpillai.substack.com/) &nbsp;&bull;&nbsp; [LinkedIn](https://www.linkedin.com/in/anwita-d-pillai/) &nbsp;
 
 </div>
